@@ -27,7 +27,6 @@ line 45:
 *Change this if you want to add additional libraries*
 
 line 57:
-*line 45:
 *Change this if you want to add new usings or custom library usings**
 
 6) Compile and test!
