@@ -1,0 +1,13 @@
+input[type="submit"]{
+    width: 100px;
+    height: 25px;
+    border: none;
+    margin: 0;
+}
+
+.show-code-button{
+    width: 100px;
+    height: 25px;
+    border: none;
+    margin: 0;
+}
